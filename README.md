@@ -9,6 +9,8 @@ across a wide range of B2B and B2C domains.
 I own the entire design process — from research and UX strategy
 to UI, design systems and a shipped product in production.
 
+**Focus:** design systems, complex B2B flows, design-to-code handoff
+
 **Looking for:** remote product design and design engineering roles
 
 **Stack:** Figma · Git/GitHub · VS Code · Claude Code
